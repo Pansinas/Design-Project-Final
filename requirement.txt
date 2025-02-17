@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+seaborn
+matplotlib
+imbalanced-learn
+deep-translator
+scikit-learn
+transliterate
+speechrecognition
+gtts
+plotly
